@@ -6,4 +6,5 @@
 (defn -main
   "The entrypoint."
   [& args]
-  (log/info args))
+  (log/info args)
+  (log/info ["user.home" (System/getProperty "user.home")]))
