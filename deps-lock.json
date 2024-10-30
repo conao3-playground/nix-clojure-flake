@@ -13,6 +13,16 @@
       "hash": "sha256-WUXPjq14D3SX6G8piWPyeGgdUZrpshvpSfrFQg8F01A="
     },
     {
+      "mvn-path": "babashka/fs/0.5.22/fs-0.5.22.jar",
+      "mvn-repo": "https://repo.clojars.org/",
+      "hash": "sha256-XlYn4wiXEWRY6QwBkNf+VDVLgF7mmK45RK8qT7kv2kg="
+    },
+    {
+      "mvn-path": "babashka/fs/0.5.22/fs-0.5.22.pom",
+      "mvn-repo": "https://repo.clojars.org/",
+      "hash": "sha256-2TR/fJEekVBUM6YkEHLcBwVtkXp7FNk+Quxvz0mVJqU="
+    },
+    {
       "mvn-path": "com/nextjournal/beholder/1.0.2/beholder-1.0.2.jar",
       "mvn-repo": "https://clojars.org/repo/",
       "hash": "sha256-iQOMTbidIDu1sSpfsa2qkpXgWirEsk+u2ZbJNOqJ0Xo="
@@ -184,12 +194,12 @@
     },
     {
       "mvn-path": "org/clojure/clojure/1.11.3/clojure-1.11.3.jar",
-      "mvn-repo": "https://repo1.maven.org/maven2/",
+      "mvn-repo": "https://repo.maven.apache.org/maven2/",
       "hash": "sha256-nDBUCTKOK5boXdK160t1gQxnt2unCuTQ9t3pvPtVsbc="
     },
     {
       "mvn-path": "org/clojure/clojure/1.11.3/clojure-1.11.3.pom",
-      "mvn-repo": "https://repo1.maven.org/maven2/",
+      "mvn-repo": "https://repo.maven.apache.org/maven2/",
       "hash": "sha256-DA2+Ge4NKpxXMQzr3dNWRD8NFlFMQmBHsGLjpXwNuK0="
     },
     {
@@ -204,12 +214,12 @@
     },
     {
       "mvn-path": "org/clojure/clojure/1.12.0/clojure-1.12.0.jar",
-      "mvn-repo": "https://repo.maven.apache.org/maven2/",
+      "mvn-repo": "https://repo1.maven.org/maven2/",
       "hash": "sha256-xFMzAGRBoFnqn9sTQfxsH0C5IaENzNgmZTEeSKA4R2M="
     },
     {
       "mvn-path": "org/clojure/clojure/1.12.0/clojure-1.12.0.pom",
-      "mvn-repo": "https://repo.maven.apache.org/maven2/",
+      "mvn-repo": "https://repo1.maven.org/maven2/",
       "hash": "sha256-KfRiqonLl2RXWEGKXwjUwagrc1yW569JgX0WqpuQgVA="
     },
     {
@@ -234,22 +244,22 @@
     },
     {
       "mvn-path": "org/clojure/core.specs.alpha/0.2.62/core.specs.alpha-0.2.62.jar",
-      "mvn-repo": "https://repo1.maven.org/maven2/",
+      "mvn-repo": "https://repo.maven.apache.org/maven2/",
       "hash": "sha256-Bu6owHC75FwVhWfkQ0OWgbyMRukSNBT4G/oyukLWy8g="
     },
     {
       "mvn-path": "org/clojure/core.specs.alpha/0.2.62/core.specs.alpha-0.2.62.pom",
-      "mvn-repo": "https://repo1.maven.org/maven2/",
+      "mvn-repo": "https://repo.maven.apache.org/maven2/",
       "hash": "sha256-F3i70Ti9GFkLgFS+nZGdG+toCfhbduXGKFtn1Ad9MA4="
     },
     {
       "mvn-path": "org/clojure/core.specs.alpha/0.4.74/core.specs.alpha-0.4.74.jar",
-      "mvn-repo": "https://repo.maven.apache.org/maven2/",
+      "mvn-repo": "https://repo1.maven.org/maven2/",
       "hash": "sha256-63OsCM9JuoQMiLpnvu8RM2ylVDM9lAiAjXiUbg/rnds="
     },
     {
       "mvn-path": "org/clojure/core.specs.alpha/0.4.74/core.specs.alpha-0.4.74.pom",
-      "mvn-repo": "https://repo.maven.apache.org/maven2/",
+      "mvn-repo": "https://repo1.maven.org/maven2/",
       "hash": "sha256-M0EOuKpz1S2Vez3G4KZfOZisBiPL2BPZDDPm5onEJCk="
     },
     {
@@ -294,22 +304,22 @@
     },
     {
       "mvn-path": "org/clojure/spec.alpha/0.3.218/spec.alpha-0.3.218.jar",
-      "mvn-repo": "https://repo1.maven.org/maven2/",
+      "mvn-repo": "https://repo.maven.apache.org/maven2/",
       "hash": "sha256-Z+yJjrVcZqlXpVJ53YXRN2u5lL2HZosrDeHrO5foquA="
     },
     {
       "mvn-path": "org/clojure/spec.alpha/0.3.218/spec.alpha-0.3.218.pom",
-      "mvn-repo": "https://repo1.maven.org/maven2/",
+      "mvn-repo": "https://repo.maven.apache.org/maven2/",
       "hash": "sha256-bY3hTDrIdXYMX/kJVi/5hzB3AxxquTnxyxOeFp/pB1g="
     },
     {
       "mvn-path": "org/clojure/spec.alpha/0.5.238/spec.alpha-0.5.238.jar",
-      "mvn-repo": "https://repo.maven.apache.org/maven2/",
+      "mvn-repo": "https://repo1.maven.org/maven2/",
       "hash": "sha256-lM2ZtupjlkHzevSGCmQ7btOZ7lqL5dcXz/C2Y8jXUHc="
     },
     {
       "mvn-path": "org/clojure/spec.alpha/0.5.238/spec.alpha-0.5.238.pom",
-      "mvn-repo": "https://repo.maven.apache.org/maven2/",
+      "mvn-repo": "https://repo1.maven.org/maven2/",
       "hash": "sha256-PLp+DcwIXEzpLd3/6iJhJP+sF4vnm9A3m1suMKlpy+o="
     },
     {
