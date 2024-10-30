@@ -1,1 +1,1 @@
-# nix_clojure_flake
+# nix-flake-clojure

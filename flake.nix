@@ -29,8 +29,8 @@
 
           jar = cljpkgs.mkCljBin {
             projectSrc = ./.;
-            name = "com.github.conao3/nix_clojure_flake";
-            main-ns = "nix-clojure-flake.core";
+            name = "com.github.conao3/nix_flake_clojure";
+            main-ns = "nix-flake-clojure.core";
             jdkRunner = pkgs.jdk17_headless;
           };
 

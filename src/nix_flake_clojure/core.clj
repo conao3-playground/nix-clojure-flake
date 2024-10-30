@@ -1,4 +1,4 @@
-(ns nix-clojure-flake.core
+(ns nix-flake-clojure.core
   (:require
    [clojure.tools.logging :as log]
    [babashka.fs :as fs])

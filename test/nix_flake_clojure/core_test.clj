@@ -1,4 +1,4 @@
-(ns nix-clojure-flake.core-test
+(ns nix-flake-clojure.core-test
   (:require
    [clojure.test :as t]))
 
