@@ -1,5 +1,9 @@
 all:
 
+.PHONY: test
+test:
+	clojure -M:dev:test
+
 .PHONY: format
 format:
 	nix fmt
